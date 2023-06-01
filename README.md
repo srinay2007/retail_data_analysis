@@ -11,11 +11,11 @@ At the industry level, an end-to-end data pipeline is built for this purpose. To
 
 ![image](https://github.com/srinay2007/retail_data_analysis/assets/98680554/7d515251-ffbd-4c0b-afb0-2577b0cd3f1c)
 
-**Data Pipeline in the Industry**
+                                            **Data Pipeline in the Industry**
 
 ![image](https://github.com/srinay2007/retail_data_analysis/assets/98680554/5b31f2c0-6959-43c3-8ca8-ebaf31711ac2)
 
-**Architecture of the Project**
+                                            **Architecture of the Project**
 
 you are expected to perform the following tasks in this project:
 
