@@ -39,7 +39,7 @@ The total volume of sales in a time interval can be calculated as the summation 
 Orders per minute (OPM) is another important metric for e-commerce companies. It is a direct indicator of the success of the company. As the name suggests, it is the total number of orders received in a minute.
 **∑Invoices**
 
-3.**Rate of return: **
+3.**Rate of return:**
 No business likes to see a customer returning their items. Returns are costly because they need to be processed again and have adverse effects on revenue. The rate of return indicates customer satisfaction for the company. The more satisfied the customer is, the lower the rate of return will be. The rate of return is calculated against the total number of invoices using the following equation:
 ∑Returns   /  ( ∑ Returns+∑Orders)
 
